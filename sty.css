@@ -1,0 +1,30 @@
+/*.background{
+	width:300px;
+	height:450px;
+}*/
+
+.btn-primary {border-radius: 50%;}
+.btn-primary{
+	border: 2px solid #0074d9;
+  color: #0074d9;
+  padding: 20px;
+	background-color: red;
+	padding: 20px;
+	color: white;
+	text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    top: 80%;
+    left: 40%;
+      position: absolute;  
+
+}
+.btn-primary:hover{
+	background-color: yellow;
+}
+.image{
+	width:1365px;
+	height:660px;
+	object-fit: fill;
+}
+
